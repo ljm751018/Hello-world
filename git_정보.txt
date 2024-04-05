@@ -3,12 +3,5 @@
 webMethods New videos!
 Tech Lightning
 
-<<<<<<< HEAD
 
 수정 됨
-=======
-https://www.youtube.com/playlist?list=PLfEAetjBY9s6q6zRyrMT8mtvmPMPA5SPH
-
-
-https://www.youtube.com/watch?v=OoHMxv5le8w&list=PLaYUbm3mkWASyqpALmoFLoVQOA23_25Z1
->>>>>>> ver2
